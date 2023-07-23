@@ -11,7 +11,7 @@ class ListViewExample extends StatelessWidget {
     // LIST DATA KELOMPOK ARRAY MULTI DIMENSION
     final List<List<String>> DataKelompok = [
       ['Derviska Adi Nugroho', '20104410079', 'https://smart.unisbablitar.ac.id/uploads/unisba/fotouser/thumb/120131.jpg','CODING SEMUA'],
-      ['Krisna Giana Puta', '20104410050', 'https://smart.unisbablitar.ac.id/uploads/unisba/fotouser/thumb/119675.jpg','FASILITATOR'],
+      ['Krisna Giana Puta', '20104410050', 'https://smart.unisbablitar.ac.id/uploads/unisba/fotouser/thumb/119675.jpg','Pembuatan dan pengambilan data dari array yang sudah ada untuk ditampilkan. Berisi foto mahasiswa, nama mahasiswa, nim mahasiswa dan jobdesk'],
       ['Nanda Fatkhur Rohman', '20104410041', 'https://smart.unisbablitar.ac.id/uploads/unisba/fotouser/thumb/119811.jpg','SUPORTER 1'],
       ['Muhammad Verel Prisco Alfito Devani', '20104410009', 'https://unisba.siakadcloud.com/uploads/unisba/fotouser/thumb/118063.jpg','SUPORTER 2'],
       ['Agung Kriswanto', '20104410094', 'https://smart.unisbablitar.ac.id/uploads/unisba/fotouser/thumb/120627.jpg','SUPORTER 3'],

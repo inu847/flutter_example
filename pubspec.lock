@@ -126,6 +126,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.3.1"
+  flutter_card_swiper:
+    dependency: "direct main"
+    description:
+      name: flutter_card_swiper
+      sha256: bd4a63d512ce3992b1950f6c46efeff4a0890e117e36c0fa7101b578bd0fdf3a
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.0.0"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -134,11 +142,27 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.1"
+  flutter_polygon_clipper:
+    dependency: "direct main"
+    description:
+      name: flutter_polygon_clipper
+      sha256: "18834977e499cd426a99872ee0f1bdf45e662584f6cc47803d2d6ffe1d4e3241"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.4"
   flutter_test:
     dependency: "direct dev"
     description: flutter
     source: sdk
     version: "0.0.0"
+  font_awesome_flutter:
+    dependency: "direct main"
+    description:
+      name: font_awesome_flutter
+      sha256: "5fb789145cae1f4c3245c58b3f8fb287d055c26323879eab57a7bf0cfd1e45f3"
+      url: "https://pub.dev"
+    source: hosted
+    version: "10.5.0"
   http:
     dependency: transitive
     description:

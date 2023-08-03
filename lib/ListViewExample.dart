@@ -231,7 +231,7 @@ class DetailScreen extends StatelessWidget {
         title: Text(mahasiswa[0]),
       ),
       body: Center(
-        child: Column(
+        child: Column( 
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[            
            

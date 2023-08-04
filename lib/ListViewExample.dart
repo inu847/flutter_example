@@ -130,15 +130,15 @@ class ListViewExample extends StatelessWidget {
               child: const Column(
                 children: [
                   Text(
-                    'Pecel Sambel Tumpang',
+                    'Diskon 20%',
                     textAlign: TextAlign.left,
                     style: TextStyle(
-                      color: Colors.white,
+                      color: Colors.yellow,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
                   Text(
-                    'Pecel, Sambel Tumpang, Telur Bali, Usus',
+                    'Untuk 10 Pembeli Pertama',
                     textAlign: TextAlign.left,
                     style: TextStyle(
                       color: Colors.white,

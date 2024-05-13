@@ -26,14 +26,14 @@ class _ImageAssetState extends State<ImageAsset> {
             // child: Image.asset('assets/images/babyLion.png'),
 
             // JIKA MENGGUNAKAN IMAGE NETWORK 
-            // child: Image.network('https://cdn.pixabay.com/photo/2016/07/30/20/40/mario-1557975_960_720.jpg'),
+            child: Image.network('https://cdn.pixabay.com/photo/2016/07/30/20/40/mario-1557975_960_720.jpg'),
 
             // CACHE IMAGE
-            child: CachedNetworkImage(
-              imageUrl: 'https://smart.unisbablitar.ac.id/uploads/unisba/fotouser/thumb/119675.jpg',
-              placeholder: (context, url) => const CircularProgressIndicator(),
-              errorWidget: (context, url, error) => const Icon(Icons.error),
-            ),
+            // child: CachedNetworkImage(
+            //   imageUrl: 'https://smart.unisbablitar.ac.id/uploads/unisba/fotouser/thumb/119675.jpg',
+            //   placeholder: (context, url) => const CircularProgressIndicator(),
+            //   errorWidget: (context, url, error) => const Icon(Icons.error),
+            // ),
 
             // WITH BOX SHAPE
             // decoration: const BoxDecoration(
